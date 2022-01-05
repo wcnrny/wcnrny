@@ -13,4 +13,5 @@ Here is some information about me:
 λ Studying in high school. 
 
 
-![wcnrny's GitHub stats](https://github-readme-stats.vercel.app/api?username=wcnrny&hide=contribs,prs)
+![wcnrny's GitHub stats](https://github-readme-stats.vercel.app/api?username=wcnrny&theme=monokai&show_icons=true&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wcnrny)](https://github.com/anuraghazra/github-readme-stats)
