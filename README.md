@@ -14,4 +14,4 @@ Here is some information about me:
 
 
 ![wcnrny's GitHub stats](https://github-readme-stats.vercel.app/api?username=wcnrny&theme=monokai&show_icons=true&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wcnrny&theme=monokai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wcnrny&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
