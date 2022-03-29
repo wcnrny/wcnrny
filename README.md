@@ -8,9 +8,11 @@ Here is some information about me:
 
 λ I'm 17. I will be 18 in this year.
 
-λ Working on React, Express, Discord.JS, Node.JS
+λ Working on React, Express, Discord.JS, Revolt.JS. 
 
 λ Studying in high school. 
+
+λ I'm learning TypeScript and JavaScript. 
 
 
 ![wcnrny's GitHub stats](https://github-readme-stats.vercel.app/api?username=wcnrny&theme=monokai&show_icons=true&hide=contribs,prs)
