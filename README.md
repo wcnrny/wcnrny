@@ -1,18 +1,22 @@
-## Hi there 👋
+## Hi there! 
 
-## My name is Furkan. I'm from Turkey and I am a developer. 
+λ I'm a young developer from Turkey, Eskişehir. I'm an high school student and I'm learning full-stack web development.
 
-### Currently I'm not working on any public project. But I'm working on wcnrny's Project. 
+λ The passion for development started when Covid-19 started and we stayed at home. 
 
-Here is some information about me:
+λ I've learnt React, Express and for fun I've learnt Discord.JS Frame work. 
 
-λ I'm 17. I will be 18 in this year.
 
-λ Working on React, Express, Discord.JS, Revolt.JS. 
+λ Now, I'm working on Türkiyenin Gastronomi Haritası (will be shared and will be open-source when I finish it) and a Discord Bot for fun, economy, Moderation etc. (will be public when it finished)
 
-λ Studying in high school. 
+Stay in touched! 
 
-λ I'm learning TypeScript and JavaScript. 
+If you wanna contact me, here's my socials:
+
+| Socials         | Links   |
+|--------------|-----------|
+| Instagram |  [wcnrny](https://instagram.com/wcnrny)  |
+|  Twitter | [wcnrnyofficial](https://twitter.com/wcnrnyofficial?t=UzZo1phl_rG1GGPgf72KKQ&s=09) |
 
 
 ![wcnrny's GitHub stats](https://github-readme-stats.vercel.app/api?username=wcnrny&theme=monokai&show_icons=true&hide=contribs,prs)
