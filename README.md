@@ -8,8 +8,8 @@ I've been learning some fundementals about full-stack for a year. Not much learn
 
 * 🌍  I'm based in Eskişehir
 * ✉️  You can contact me at [wcnrny@protonmail.com](mailto:wcnrny@protonmail.com)
-* 🚀  I'm currently working on [Türkiyenin Gastronomi Haritası](http://turkiyeningastronomiharitasi.tk)
-* 🧠  I'm learning TypeScript.
+* 🚀  I'm currently working on [Türkiyenin Gastronomi Haritası](http://turkiyeningastronomiharitasi.tk) and [Orman Yangınları](https://orman-yanginlari.vercel.app)
+* 🧠  I'm learning TypeScript fundementals.
 
 <a href="https://www.twitter.com/wcnrnyofficial" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/wcnrnyofficial?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
