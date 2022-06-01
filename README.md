@@ -4,7 +4,7 @@ Hi 👋 My name is Furkan
 Full-Stack Web Developer
 ------------------------
 
-I've been learning some fundementals about full-stack for a year. Not much learnt from this journey because of high school and exams etc. But I can help a little.
+I've been learning fundementals of full-stack for a year. Not much learnt from this journey because of high school and exams etc. But I can help a little.
 
 * 🌍  I'm based in Eskişehir
 * ✉️  You can contact me at [wcnrny@protonmail.com](mailto:wcnrny@protonmail.com)
