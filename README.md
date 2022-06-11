@@ -7,7 +7,7 @@ Full-Stack Web Developer
 I've been learning fundementals of full-stack for a year. Not much learnt from this journey because of high school and exams etc. But I can help a little.
 
 * 🌍  I'm based in Eskişehir
-* ✉️  You can contact me at [wcnrny@protonmail.com](mailto:wcnrny@protonmail.com)
+* ✉️  You can contact me at [wcnrny@proton.me](mailto:wcnrny@proton.me)
 * 🚀  I'm currently working on [Türkiyenin Gastronomi Haritası](http://turkiyeningastronomiharitasi.tk) and [Orman Yangınları](https://orman-yanginlari.vercel.app)
 * 🧠  I'm learning TypeScript fundementals.
 
